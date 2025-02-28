@@ -1,67 +1,45 @@
 ---
 permalink: /
-title: "Chinese name : Jialong Qin  English name : Roya Chin"
+title: "Welcome to Jialong Qin's personal page!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I'm Jialong Qin, a junior undergraduate student from School of computer science in [Beijing Institute of Technology](https://bit.edu.cn/) majoring in data science. My research interests focus on large language models, multi-modal data learning, and recommendation systems. Meanwhile, I am also interested in reinforcement learning.
 
-# EDUCATION
+During my sophomore year, I was interested in mathematical modeling with a published EI-indexed paper during the Amarican Mathematical Contest in Modeling (MCM). Meanwhile, I got the first prize of the China Undergraduate Mathematical Contest in Modeling (CUMCM) in Beijing. While learning data modeling, I’ve found great interest in working with large datasets and algorithms. I’ve picked up many mathematical methods, which have helped me develop careful thinking and strong problem-solving skills. This has set a solid foundation for my future research and studies.
 
-## Beijing Institute of Technology  
-**Beijing, China**  
-**Bachelor of Science in Data Science and Big Data Technology**  
-**Sep 2022 - Jun 2026**  
-- Current GPA: 87.6/100  
-- Honour: Second-class Academic Scholarship, Outstanding Student Leader  
-- Courses: Machine Learning, Object-Oriented Programming, Data Structures and Algorithms, Discrete Mathematics, etc.
+In my junior year, I've been an intern in the lab of BIT under Hu Linmei focusing on natural language processing and lab of Chinese Academy of Sciences under Bi Keping focusing on information retrival. During my two internship experiences, I gradually identified my research focus as **data mining**. At the same time, I have been closely following and am highly optimistic about the advancements in **reinforcement learning** and **artificial intelligence**, particularly **LLMs/VLMs**. I am especially interested in the subdirection of **multimodal data, recommendation systems, and reinforcement learning**.
 
-# ACADEMIC WORKS
+Currently, I have undertaken two independent research projects. One focuses on integrating knowledge graphs with large models for recommendation systems, and the other explores the fine-tuning and training of vision-language large models. The computational resources for these projects are primarily supported by the laboratory of Prof. Bi Keping at the Institute of Computing Technology, Chinese Academy of Sciences.
 
-## Independent Research: Enhancing Sequential Recommendation Systems utilizing LLMs and Knowledge Graphs  
+## Project 1: Intended for data mining journal/conference
+### Independent Research: Enhancing Sequential Recommendation Systems utilizing LLMs and Knowledge Graphs  
 - First paper that utilizes self-supervised methods to predict latent item relationships in dynamic knowledge graphs based on LLM for relation-aware sequential recommender systems.  
 - Harnesses the language knowledge to discover latent relations and flexible to work with existing relation-aware sequential recommenders through joint learning.  
 - Significantly improves the performance of existing relation-aware sequential recommendation models and achieve state of the art performance on real world public recommendation data set.
-
-## Co-First Author: A Dynamic Analysis Approach in Racket Sports. SPCS. [EI conference]  
-- Employed ARIMA, TOPSIS method and Lasso regression to quantify and predict momentum disparities among players.  
-- Analyzed the momentum fluctuation of players focusing on the 2023 Wimbledon Men's Singles and other events.
-
-# ACADEMIC PROJECTS
-
-## WWW2025 Multi-modal Dialogue System Intent Recognition Challenge  
-**Beijing, China**  
+## Project 2
+### WWW2025 Multi-modal Dialogue System Intent Recognition Challenge
 - Fine-tuned VLM Qwen2-vl-7B using 4*A800(80G) GPUs and achieved an 8% improvement above baselines successfully.  
 - Data Augmentation: Infuse prior knowledge into the dataset to enhance performance in data-sparse scenarios.  
 - Self-Consistency: Employ multiple reasoning paths to ensure the correctness of the answers.  
 - Pretraining: Utilize pseudo-labeling to introduces a wealth of domain knowledge while applying gradient clipping to mitigate the adverse effects of noisy labels on the training process.  
 - Intent Summarization: Summarize user-specific intents and filter out noise to refine the input.
 
-# PROFESSIONAL EXPERIENCES
+# Papers
 
-## Institute of Computing Technology, Chinese Academy of Sciences  
-**Beijing, China**  
-**Intern under Bi Keping, Chinese Academy of Sciences**  
-**June 2024 - August 2024**  
-- Conduct experiment on fine-tuning BERT based on SQuAD and engaged in enhancing research skills.
-
-## LIKE Laboratory, Beijing Institute of Technology  
-**Beijing, China**  
-**Intern under Hu Linmei, Beijing Institute of Technology**  
-**Mar 2024 - June 2024**  
-- Conducted experimental parameter optimisation for the paper "Graph Gravitation Network" across various datasets, contributing to the refinement and accuracy of research findings.  
-- Experimented with Python to generate t-SNE plots, visualising data representations for further analysis.
-
-# AWARDS
-
-- **China Undergraduate Mathematical Contest in Modeling Beijing Region (CUMCM) - 1st and 2nd Prize**  
-  2023/2024  
-- **American Mathematical Contest in Modeling (MCM/ICM) - Honorable Award**  
-  2024
+## CLRE Contrastive Learning with Relation-aware Embeddings for Sequential Recommendation
+This is exact the project 1, which has not been published yet and is intended for data mining journal/conference
+## Co-First Author: A Dynamic Analysis Approach in Racket Sports. SPCS. [EI conference]  
+- Employed ARIMA, TOPSIS method and Lasso regression to quantify and predict momentum disparities among players.  
+- Analyzed the momentum fluctuation of players focusing on the 2023 Wimbledon Men's Singles and other events.
 
 # SKILLS & INTERESTS
 
-- **Languages**: Proficient in reading academic literature in English, with strong English presentation skills.  
-- **Programming**: Proficient in Python. Skilled in C++ for solving algorithms on LeetCode. Java for web development. Developed a content sharing website by deploying a Spring Boot-based back-end and VUE3-based front-end with instant messaging, content publishing and interactive features.  
+- **Languages**: English(fluent) Chinese(native) I am preparaing for taking IELTs recently!
+- **Programming**:
+- Proficient in Python.
+- Skilled in C++ for solving algorithms on LeetCode.
+- Java for web development : I have developed a content sharing website by deploying a Spring Boot-based back-end and VUE3-based front-end with instant messaging, content publishing and interactive features.  
 - **Volunteer Experience**: Accumulated over 100 hours of volunteer work. Volunteered 50 hours providing free compute repair services to students at Beijing Institute of Technology Network Pioneers Association Computer Clinic.
