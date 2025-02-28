@@ -1,4 +1,6 @@
 <div style="text-align: justify;">
+
+
 ---
 permalink: /
 title: "Welcome to Jialong Qin's personal page!"
@@ -20,6 +22,7 @@ During my sophomore year, I was interested in mathematical modeling with a publi
 In my junior year, I've been an intern in the lab of BIT under Hu Linmei focusing on natural language processing and lab of Chinese Academy of Sciences under Bi Keping focusing on information retrival. I learned the basic framework of [Transformers](https://arxiv.org/abs/1706.03762) and [BERT](https://arxiv.org/abs/1810.04805). My first demo work is to help a research project called Graph Gravitation Network in Hu's lab, focusing on graph learning. Afterwards, I fine-tuned the  bert model with SQuAD dataset in Bi's lab. Then, I studied the Knowledge Graph embedding models like TransE and DistMult and recommendation systems(RS), especial sequential RS like Gru4Rec,SAS4Rec,CL4Rec,KDA etc. During my two internship experiences, I did some practical data-driven pytorch experiments and gradually identified my research focus as **data mining**. At the same time, I have been closely following and am highly optimistic about the future in **reinforcement learning** and **artificial intelligence**, particularly **LLMs/VLMs**. I am especially interested in the subdirection of **multimodal data, recommendation systems, and reinforcement learning**.
 
 ![Graph Gravitation Network](https://github.com/user-attachments/assets/83b5259d-1a90-4d6c-ad31-9c2cd4d735d3)
+
 Currently, I have undertaken two independent research projects. One focuses on integrating knowledge graphs with large models for recommendation systems, and the other explores the fine-tuning and training of vision-language large models. The computational resources for these projects are primarily supported by the laboratory of Prof. Bi Keping at the Institute of Computing Technology, Chinese Academy of Sciences.
 
 ## Project 1: Intended for data mining journal/conference
@@ -29,6 +32,7 @@ Currently, I have undertaken two independent research projects. One focuses on i
 - Significantly improves the performance of existing relation-aware sequential recommendation models and achieve state of the art performance on real world public recommendation data set.
 
 ![CORE work](https://github.com/user-attachments/assets/b283ac09-a1b7-47c2-a293-fd4a73ad99c2)
+
 ## Project 2
 ### WWW2025 Multi-modal Dialogue System Intent Recognition Challenge
 - Fine-tuned VLM Qwen2-vl-7B using 4*A800(80G) GPUs and achieved an 8% improvement above baselines successfully.  
@@ -45,6 +49,7 @@ This is exact the project 1, which has not been published yet and is intended fo
 ## Co-First Author: A Dynamic Analysis Approach in Racket Sports. SPCS. [EI conference]  
 - Employed ARIMA, TOPSIS method and Lasso regression to quantify and predict momentum disparities among players.  
 - Analyzed the momentum fluctuation of players focusing on the 2023 Wimbledon Men's Singles and other events.
+
 ![image](https://github.com/user-attachments/assets/add2453d-689c-4812-822b-4a053c25ced7)
 
 # SKILLS & INTERESTS
