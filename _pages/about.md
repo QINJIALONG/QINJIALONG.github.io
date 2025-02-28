@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Jialong Qin, a junior undergraduate student from School of computer science in [Beijing Institute of Technology](https://bit.edu.cn/) majoring in data science. My research interests focus on large language models, multi-modal data learning, and recommendation systems. Meanwhile, I am also interested in reinforcement learning.
+My name is Qin Jialong and you can call me Roya! You can find my CV here: [Roya's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+I'm a junior undergraduate student from School of computer science in [Beijing Institute of Technology](https://bit.edu.cn/) majoring in data science. My research interests focus on large language models, multi-modal data learning, and recommendation systems. Meanwhile, I am also interested in reinforcement learning.
 
 During my sophomore year, I was interested in mathematical modeling with a published EI-indexed paper during the Amarican Mathematical Contest in Modeling (MCM). Meanwhile, I got the first prize of the China Undergraduate Mathematical Contest in Modeling (CUMCM) in Beijing. While learning data modeling, I’ve found great interest in working with large datasets and algorithms. I’ve picked up many mathematical methods, which have helped me develop careful thinking and strong problem-solving skills. This has set a solid foundation for my future research and studies.
 
@@ -34,12 +36,13 @@ This is exact the project 1, which has not been published yet and is intended fo
 ## Co-First Author: A Dynamic Analysis Approach in Racket Sports. SPCS. [EI conference]  
 - Employed ARIMA, TOPSIS method and Lasso regression to quantify and predict momentum disparities among players.  
 - Analyzed the momentum fluctuation of players focusing on the 2023 Wimbledon Men's Singles and other events.
+![image](https://github.com/user-attachments/assets/add2453d-689c-4812-822b-4a053c25ced7)
 
 # SKILLS & INTERESTS
 
 - **Languages**: English(fluent) Chinese(native) I am preparaing for taking IELTs recently!
 - **Programming**:
-- Proficient in Python.
-- Skilled in C++ for solving algorithms on LeetCode.
-- Java for web development : I have developed a content sharing website by deploying a Spring Boot-based back-end and VUE3-based front-end with instant messaging, content publishing and interactive features.  
+  1. Proficient in Python. (I have handled several python projects by using pytorch)
+  2. Skilled in C++ for solving problems on LeetCode(similar to codeforce.com).(In this process, I strengthed my programming skills and understanding of data structures and algorithms.)
+  3. Java for web development (I have developed a content sharing website by deploying a Spring Boot-based back-end and VUE3-based front-end with instant messaging, content publishing and interactive features.)
 - **Volunteer Experience**: Accumulated over 100 hours of volunteer work. Volunteered 50 hours providing free compute repair services to students at Beijing Institute of Technology Network Pioneers Association Computer Clinic.
