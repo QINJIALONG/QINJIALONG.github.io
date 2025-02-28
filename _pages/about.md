@@ -1,3 +1,4 @@
+<div style="text-align: justify;">
 ---
 permalink: /
 title: "Welcome to Jialong Qin's personal page!"
@@ -6,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="text-align: justify;">
+
 
 ![d76fb7aee2eb4322e06545f35f71293](https://github.com/user-attachments/assets/9f0c961c-1781-4780-b067-49c8fed55e86)
 
