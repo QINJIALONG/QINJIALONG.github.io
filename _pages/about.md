@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="text-align: justify;">
+
 ![d76fb7aee2eb4322e06545f35f71293](https://github.com/user-attachments/assets/9f0c961c-1781-4780-b067-49c8fed55e86)
 
 My name is **Qin Jialong** and you can call me **Roya**! You can find my CV here: [Roya's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
@@ -52,3 +54,5 @@ This is exact the project 1, which has not been published yet and is intended fo
   2. Skilled in C++ for solving problems on LeetCode(similar to codeforce.com).(In this process, I strengthed my programming skills and understanding of data structures and algorithms.)
   3. Java for web development (I have developed a content sharing website by deploying a Spring Boot-based back-end and VUE3-based front-end with instant messaging, content publishing and interactive features.)
 - **Volunteer Experience**: Accumulated over 100 hours of volunteer work. Volunteered 50 hours providing free compute repair services to students at Beijing Institute of Technology Network Pioneers Association Computer Clinic.
+
+</div>
