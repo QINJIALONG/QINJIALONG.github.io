@@ -1,6 +1,3 @@
-<div style="text-align: justify;">
-
-
 ---
 permalink: /
 title: "Welcome to Jialong Qin's personal page!"
@@ -61,4 +58,3 @@ This is exact the project 1, which has not been published yet and is intended fo
   3. Java for web development (I have developed a content sharing website by deploying a Spring Boot-based back-end and VUE3-based front-end with instant messaging, content publishing and interactive features.)
 - **Volunteer Experience**: Accumulated over 100 hours of volunteer work. Volunteered 50 hours providing free compute repair services to students at Beijing Institute of Technology Network Pioneers Association Computer Clinic.
 
-</div>
